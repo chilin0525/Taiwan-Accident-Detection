@@ -1,0 +1,11 @@
+google-api-core==2.10.2
+google-api-python-client==2.66.0
+google-auth==2.14.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.7.1
+google-pasta==0.2.0
+googleapis-common-protos==1.56.4
+gpustat==1.0.0
+pandas==1.5.1
+youtube-dl==2021.12.17
+yt-dlp==2022.11.11
